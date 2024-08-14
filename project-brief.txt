@@ -1,0 +1,11 @@
+Creator - Ben Bolden
+
+PROJECT NAME - Power Factor Calculator
+
+PROJECT DESCRIPTION - This tool will allow a USPA, Steel Challenge or IDPA shooter to 
+calculate an accurate power factor measurement for a given load by inputting their 
+bullet weight and average ammo velocity.
+
+STORY:
+- As a competitive USPA, Steel Challenge, or IDPA shooter, I want to be able to calculate
+an accurate power factor (PF) for my chosen handgun load so that I ensure I am shooting a legal load in competition. 
