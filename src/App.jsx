@@ -35,7 +35,7 @@ function PowerFactorCalc() {
       <div class="columns">
         <div class="column is-one-third">
       <div class="box">
-        Enter your avereage FPS: <input
+        Enter your average FPS: <input
           className="inputFPS"
           class="input is-medium"
           type="number"
@@ -54,8 +54,6 @@ function PowerFactorCalc() {
       <div class='column'>Placeholder for dropdowns</div>
       </div>
       <div class="column">
-      <div class="box">Captured FPS is: {avgFPS}</div>
-      <div class="box">Captured Bullet Weight is: {bulletWeight}</div>
       <div class="box">Power Factor is: {Math.ceil(calculatePF())}</div>
         </div>
       </div>
